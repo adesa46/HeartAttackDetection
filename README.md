@@ -195,7 +195,7 @@ Contributions are welcome! Please follow these guidelines:
 For issues, questions, or contributions, please contact:
 - **Primary Contact**: Ansh Desai ([adesa46@illinois.edu](mailto:adesa46@illinois.edu))
 - **Repository**: [HeartAttackDetection](https://github.com/adesa46/HeartAttackDetection)
-- **Contributors**: Ansh Desai, Aditya Kewalram, Srivarsh Gudlavalleti
+- **Contributors**: Ansh Desai, Aditya Kewalram, Srivarsh Gudlavalleti, Nandini Sharma
 
 ## 🔗 References
 
