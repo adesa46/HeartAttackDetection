@@ -193,8 +193,9 @@ Contributions are welcome! Please follow these guidelines:
 ## 📞 Contact & Support
 
 For issues, questions, or contributions, please contact:
-- **Repository**: https://github.com/Aditya-8891/HeartAttackDetection
-- **Primary Contact**: Aditya Kewalram
+- **Primary Contact**: Ansh Desai ([adesa46@illinois.edu](mailto:adesa46@illinois.edu))
+- **Repository**: [HeartAttackDetection](https://github.com/Aditya-8891/HeartAttackDetection)
+- **Contributors**: Aditya Kewalram, Srivarsh Gudlavalleti, Ansh Desai
 
 ## 🔗 References
 
