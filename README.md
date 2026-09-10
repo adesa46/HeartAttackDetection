@@ -102,7 +102,7 @@ The system employs three deep learning architectures for robust cardiac analysis
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Aditya-8891/HeartAttackDetection.git
+   git clone https://github.com/adesa46/HeartAttackDetection.git
    cd HeartAttackDetection
    ```
 
@@ -194,8 +194,8 @@ Contributions are welcome! Please follow these guidelines:
 
 For issues, questions, or contributions, please contact:
 - **Primary Contact**: Ansh Desai ([adesa46@illinois.edu](mailto:adesa46@illinois.edu))
-- **Repository**: [HeartAttackDetection](https://github.com/Aditya-8891/HeartAttackDetection)
-- **Contributors**: Aditya Kewalram, Srivarsh Gudlavalleti, Ansh Desai
+- **Repository**: [HeartAttackDetection](https://github.com/adesa46/HeartAttackDetection)
+- **Contributors**: Ansh Desai, Aditya Kewalram, Srivarsh Gudlavalleti
 
 ## 🔗 References
 
